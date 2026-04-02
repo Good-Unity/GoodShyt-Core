@@ -1,0 +1,4 @@
+ecti_minimum: 0.90
+csm_minimum: 0.75
+stl_max_penalty: 0.25
+kaq_minimum: 0.70
