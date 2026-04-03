@@ -1,3 +1,5 @@
-# Security Policy
+Report vulnerabilities, unsafe behavior paths, exposed secrets, policy bypasses,
+or transparency failures privately before public disclosure.
 
-Report vulnerabilities, exposed secrets, unsafe behavior paths, or policy bypasses privately before public disclosure.
+**GoodShyt Core**  
+**Ethical Infrastructure for Human and Community Flourishing**
